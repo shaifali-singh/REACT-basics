@@ -26,6 +26,6 @@ render(){
         <ImageList images={this.state.images} />
     </div>
  );
-};
-};
+}
+}
 export default App;
